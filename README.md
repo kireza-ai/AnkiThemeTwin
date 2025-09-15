@@ -38,8 +38,7 @@
 ---
 
 ## 🔗 Links
-- **GitHub Repository**: [github.com/MohammedTsmu/AnkiThemeTwin](https://github.com/MohammedTsmu/AnkiThemeTwin)  
-- **AnkiWeb Add-on Page**: *(to be added after publishing)*  
+- **GitHub Repository**: [github.com/MohammedTsmu/AnkiThemeTwin](https://github.com/MohammedTsmu/AnkiThemeTwin)
 
 ---
 
