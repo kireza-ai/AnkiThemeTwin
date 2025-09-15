@@ -17,7 +17,7 @@
 - **Fonts with high contrast** (passes WCAG AA guidelines).
 - Easy theme switching via **Tools → Theme: AnkiThemeTwin**.
 - **About dialog** with project details and GitHub link.
-- Fully compatible with **Anki 25.x (Qt6 / PyQt6)**.
+- Compatible with **Anki 2.1.55+ (Qt6 / PyQt6)** — tested on Anki 25.x.
 
 ---
 
@@ -26,22 +26,59 @@
 |---------------|------------|----------------|
 | ![Sepia Special](images/sepia_special.png) | ![Gray Paper](images/gray_paper.png) | ![Dark Warm Soft](images/dark_warm.png) |
 
-*(Screenshots stored in `/images` folder in this repo)*
+*(Screenshots live in `/images` in this repo.)*
 
 ---
 
 ## 📥 Installation
-1. Download the latest release `.ankiaddon` file.  
-2. In Anki, go to **Tools → Add-ons → Install from File...**  
-3. Select the `.ankiaddon` file and restart Anki.  
+
+### Option A — from AnkiWeb (recommended)
+- **AnkiWeb page:** https://ankiweb.net/shared/info/1256951397  
+- **Add-on ID:** `1256951397`  
+  Open Anki → **Tools → Add-ons → Get Add-ons…** → paste the ID → Install.
+
+### Option B — manual file
+1. Download the latest `.ankiaddon` from **[Releases](../../releases)**.  
+2. In Anki: **Tools → Add-ons → Install from File…** and choose the file.  
+3. Restart Anki.
+
+---
+
+## ⚙️ Requirements
+- **Anki 2.1.55+** (Qt6/PyQt6). Older Qt5 builds are not supported.
+
+---
+
+## 🧰 Troubleshooting
+- Colors didn’t change? Restart Anki, and ensure no other theming add-on overrides styles.
+- You can switch any time from **Tools → Theme: AnkiThemeTwin**.
+- Problems or feature requests? Open an issue on GitHub (link below).
 
 ---
 
 ## 🔗 Links
-- **GitHub Repository**: [github.com/MohammedTsmu/AnkiThemeTwin](https://github.com/MohammedTsmu/AnkiThemeTwin)
+- **AnkiWeb:** https://ankiweb.net/shared/info/1256951397  
+- **GitHub Repository:** https://github.com/MohammedTsmu/AnkiThemeTwin  
+- **Issues (support):** https://github.com/MohammedTsmu/AnkiThemeTwin/issues
 
 ---
 
 ## 📝 Author
 Developed with 💻 + ☕ by **Dr. Mohammed**.  
 Feedback, issues, and contributions are welcome on GitHub.
+
+---
+
+## 📚 References
+- Anki add-on hooks (CSS injection via `webview_will_set_content`)  
+  https://addon-docs.ankiweb.net/hooks-and-filters.html
+- Packaging & sharing add-ons (`.ankiaddon` zip format)  
+  https://addon-docs.ankiweb.net/sharing.html
+- Installing add-ons from Anki (Get Add-ons / Install from file)  
+  https://docs.ankiweb.net/addons.html
+- Qt Style Sheets (QSS) for widget theming  
+  https://doc.qt.io/qt-6/stylesheet.html
+- WCAG 2.1 contrast guidance (readability)  
+  https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html
+- Word Immersive Reader (background/page color)  
+  https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1
